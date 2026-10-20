@@ -19,10 +19,8 @@ This was my first PCB project using KiCad.
 At first I had trouble setting up footprints and libraries. After spending time learning KiCad, I was able to create the schematic and PCB layout.
 
 This project helped me understand how components connect together and how a PCB is designed.
-
 Screenshots
 Schematic
-Screenshot%202026-09-22%20145100.png
-
+<img width="1916" height="760" alt="Screenshot 2026-09-22 145100" src="https://github.com/user-attachments/assets/ce3dbc75-45cf-495a-b22e-81109f6f757d" />
 PCB Layout
-Screenshot%202026-10-18%20163507.png
+<img width="2555" height="1086" alt="Screenshot 2026-10-18 163507" src="https://github.com/user-attachments/assets/02dcaf50-6940-4b4c-a86f-94c633ea210a" />

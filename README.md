@@ -1,3 +1,4 @@
+<img width="957" height="718" alt="Screenshot 2026-09-06 143228 png" src="https://github.com/user-attachments/assets/5f62ece3-01ad-4939-85c4-ac120a82b9b4" />
 # 9-Key Macropad
 
 This is my KiCad design for a 9-key macropad.  
@@ -21,6 +22,7 @@ At first I had trouble setting up footprints and libraries. After spending time 
 This project helped me understand how components connect together and how a PCB is designed.
 Screenshots
 Schematic
+<img width="957" height="718" alt="Screenshot 2026-09-06 143228 png" src="https://github.com/user-attachments/assets/31a6fca2-b054-4b6c-be34-9009425b6ce0" />
 
 PCB Layout
 <img width="2555" height="1086" alt="Screenshot 2026-10-18 163507" src="https://github.com/user-attachments/assets/02dcaf50-6940-4b4c-a86f-94c633ea210a" />

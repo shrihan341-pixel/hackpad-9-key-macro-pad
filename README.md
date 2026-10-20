@@ -20,3 +20,15 @@ This was my first PCB project using KiCad.
 At first I had trouble setting up footprints and libraries. After spending time learning KiCad, I was able to create the schematic and PCB layout.
 
 This project helped me understand how components work together and gave me a basic understanding of PCB design.
+My Experience
+This was my first PCB project using KiCad.
+
+At first I had trouble with footprints and library setup. After spending time learning KiCad, I was able to create the schematic and PCB layout.
+
+This project helped me understand how components connect together and how a PCB is designed.
+Screenshots
+Schematic
+Screenshot%202026-09-06%20143228.png.jpg
+
+PCB Layout
+Screenshot%202026-10-18%20163507.png

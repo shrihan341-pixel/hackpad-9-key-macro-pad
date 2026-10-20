@@ -1,4 +1,4 @@
-<img width="957" height="718" alt="Screenshot 2026-09-06 143228 png" src="https://github.com/user-attachments/assets/5f62ece3-01ad-4939-85c4-ac120a82b9b4" />
+
 # 9-Key Macropad
 
 This is my KiCad design for a 9-key macropad.  
